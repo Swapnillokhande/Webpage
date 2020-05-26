@@ -19,7 +19,7 @@ export class TimelineNodesComponent {
       month: 'Jul',
       year: '2019',
       position: 'Data Science Engineer Intern',
-      institute: 'Mactores Information Technology & Services',
+      institute: 'Mactores Cognition Inc',
       duration: 'Jul 2019 - Sep 2019'
     },
     {
